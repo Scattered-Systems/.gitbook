@@ -102,7 +102,7 @@
     * [Virtual File System](appendix/index/v/virtual-file-system.md)
   * [W](appendix/index/w/README.md)
     * [Wallet](appendix/index/w/wallet.md)
-    * [WebAssembly](appendix/index/w/webassembly.md)
+    * [WebAssembly (WASM)](appendix/index/w/webassembly-wasm.md)
     * [Work](appendix/index/w/work.md)
   * [X](appendix/index/x.md)
   * [Y](appendix/index/y.md)
