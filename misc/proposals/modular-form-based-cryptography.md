@@ -1,7 +1,5 @@
 ---
-description: >-
-  Using modular forms in place of traditional elliptic curve methods of
-  generations
+description: Using modular forms in place of traditional elliptic curve
 ---
 
 # Modular Form based Cryptography
