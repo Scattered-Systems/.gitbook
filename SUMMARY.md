@@ -95,6 +95,7 @@
     * [State Machine](appendix/index/s/state-machine.md)
     * [Succinct](appendix/index/s/succinct.md)
   * [T](appendix/index/t/README.md)
+    * [Taniyamma-Shimura Conjecture](appendix/index/t/taniyamma-shimura-conjecture.md)
     * [Timelock](appendix/index/t/timelock.md)
     * [Transaction](appendix/index/t/transaction.md)
   * [U](appendix/index/u/README.md)
