@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Discussion](README.md)
+* [Whitepaper](README.md)
 
 ## Protocols
 
@@ -14,7 +14,15 @@
 ## Specs
 
 * [Networking](specs/networking.md)
+* [Runtime](specs/runtime.md)
 * [Security](specs/security.md)
+
+## 💡 Misc
+
+* [Contributors](misc/contributors.md)
+* [Discussions](misc/discussions/README.md)
+  * [Conceptualizing the platform](misc/discussions/conceptualizing-the-platform.md)
+* [Proposals](misc/proposals.md)
 
 ## Appendix
 
@@ -24,6 +32,7 @@
     * [AC/DC](appendix/index/a/ac-dc.md)
     * [Actor](appendix/index/a/actor.md)
     * [Alias](appendix/index/a/alias.md)
+    * [Appellation](appendix/index/a/appellation.md)
   * [B](appendix/index/b/README.md)
     * [Blockchain](appendix/index/b/blockchain.md)
     * [Bridge](appendix/index/b/bridge.md)
