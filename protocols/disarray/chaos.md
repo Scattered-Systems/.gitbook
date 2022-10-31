@@ -1,7 +1,5 @@
 ---
-description: >-
-  Chaos extends the base functionality of the platform to support a complete
-  cloud storage toolkit
+description: A multi-dimensional, cloud-native decentralized storage solution
 ---
 
 # Chaos

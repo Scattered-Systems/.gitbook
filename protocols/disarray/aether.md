@@ -1,7 +1,4 @@
----
-description: A robust computational layer extending the proof-of-work module
----
-
 # Aether
 
-Aether extends the functionality of nodes operating under the respective circumstances, leveraging an increased availability of computational power to deliver containerization / virtualization services. Additionally, Aether provides an optimal computational surface for advanced arithmetic and securely inter-operating with the Flow modules primary model to intelligently augment the execution of the transaction.&#x20;
+Aether builds upon the proof of work modules, leveraging the increased computational power to enable a host of containerization and virtualization services alongside traditional arithmetic. This abstracts a majority of the overhead away from both Proton and Flow, enabling them to remain lightweight and user-centric.
+
