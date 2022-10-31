@@ -96,7 +96,7 @@
     * [Succinct](appendix/index/s/succinct.md)
   * [T](appendix/index/t/README.md)
     * [Taniyamma-Shimura Conjecture](appendix/index/t/taniyamma-shimura-conjecture.md)
-    * [Timelock](appendix/index/t/timelock.md)
+    * [Time-lock Puzzles](appendix/index/t/time-lock-puzzles.md)
     * [Transaction](appendix/index/t/transaction.md)
   * [U](appendix/index/u/README.md)
     * [Union](appendix/index/u/union.md)
