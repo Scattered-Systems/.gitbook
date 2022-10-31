@@ -8,10 +8,7 @@
   * [Aether](protocols/disarray/aether.md)
   * [Chaos](protocols/disarray/chaos.md)
   * [Flow](protocols/disarray/flow.md)
-* [Proton](protocols/proton/README.md)
-  * [Automations](protocols/proton/automations.md)
-  * [Creativity](protocols/proton/creativity.md)
-  * [Discover](protocols/proton/discover.md)
+* [Proton](protocols/proton.md)
 * [Reaction](protocols/reaction.md)
 
 ## Specs
