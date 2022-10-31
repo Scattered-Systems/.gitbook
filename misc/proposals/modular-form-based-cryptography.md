@@ -12,3 +12,4 @@ I propose an alternative method of generating elliptic curve based cryptographic
 
 #### Taniyama-Shimura-Weil Conjecture
 
+The conjecture realizes a deep connection that persists between elliptic curves, infinite power series, and modular forms.&#x20;
