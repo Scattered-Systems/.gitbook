@@ -51,6 +51,7 @@
     * [Divergance](appendix/index/d/divergance.md)
     * [Double Spending](appendix/index/d/double-spending.md)
   * [E](appendix/index/e/README.md)
+    * [EdDSA](appendix/index/e/eddsa.md)
     * [Ephemeral](appendix/index/e/ephemeral.md)
     * [Epoch](appendix/index/e/epoch.md)
     * [EVM](appendix/index/e/evm.md)
