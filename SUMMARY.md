@@ -98,4 +98,4 @@
   * [Z](appendix/index/z/README.md)
     * [Zero-Knowledge](appendix/index/z/zero-knowledge.md)
     * [zk-SNARK](appendix/index/z/zk-snark.md)
-* [Resources](appendix/resources.md)
+* [Resources](appendix/references.md)
