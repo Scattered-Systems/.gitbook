@@ -66,7 +66,7 @@
     * [Juxtaposition](appendix/index/j/juxtaposition.md)
   * [K](appendix/index/k/README.md)
     * [Kademlia Distributed Hash Tables](appendix/index/k/kademlia-distributed-hash-tables.md)
-  * [L](appendix/index/l/README.md)
+  * [L](appendix/index/l.md)
     * [Langlands Program](appendix/index/l/langlands-program.md)
   * [M](appendix/index/m/README.md)
     * [Merkle Tree](appendix/index/m/merkle-tree.md)
