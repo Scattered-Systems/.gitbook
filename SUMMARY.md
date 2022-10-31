@@ -25,6 +25,7 @@
 * [Proposals](misc/proposals/README.md)
   * [3D Printable Non-Fungible Token](misc/proposals/3d-printable-non-fungible-token.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
+  * [Modular Form based Cryptography](misc/proposals/modular-form-based-cryptography.md)
 
 ## Appendix
 
@@ -65,7 +66,8 @@
     * [Juxtaposition](appendix/index/j/juxtaposition.md)
   * [K](appendix/index/k/README.md)
     * [Kademlia Distributed Hash Tables](appendix/index/k/kademlia-distributed-hash-tables.md)
-  * [L](appendix/index/l.md)
+  * [L](appendix/index/l/README.md)
+    * [Langlands Program](appendix/index/l/langlands-program.md)
   * [M](appendix/index/m/README.md)
     * [Merkle Tree](appendix/index/m/merkle-tree.md)
     * [Merkle Mountain Range](appendix/index/m/merkle-mountain-range.md)
@@ -96,6 +98,7 @@
     * [Transaction](appendix/index/t/transaction.md)
   * [U](appendix/index/u/README.md)
     * [Union](appendix/index/u/union.md)
+    * [UTXO](appendix/index/u/utxo.md)
   * [V](appendix/index/v/README.md)
     * [Validation](appendix/index/v/validation.md)
     * [Vertical Integration](appendix/index/v/vertical-integration.md)
