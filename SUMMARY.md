@@ -48,6 +48,7 @@
     * [DAO](appendix/index/d/dao.md)
     * [Deterministic](appendix/index/d/deterministic.md)
     * [Divergance](appendix/index/d/divergance.md)
+    * [Double Spending](appendix/index/d/double-spending.md)
   * [E](appendix/index/e/README.md)
     * [Ephemeral](appendix/index/e/ephemeral.md)
     * [Epoch](appendix/index/e/epoch.md)
