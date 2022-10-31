@@ -1,5 +1,7 @@
 ---
-description: A multi-dimensional, cloud-native decentralized storage solution
+description: >-
+  A n-dimensional, cloud-native decentralized storage solution supporting IoT
+  experiences
 ---
 
 # Chaos
