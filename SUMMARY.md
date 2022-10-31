@@ -22,7 +22,9 @@
 * [Contributors](misc/contributors.md)
 * [Discussions](misc/discussions/README.md)
   * [Conceptualizing the platform](misc/discussions/conceptualizing-the-platform.md)
-* [Proposals](misc/proposals.md)
+* [Proposals](misc/proposals/README.md)
+  * [3D Printable Non-Fungible Token](misc/proposals/3d-printable-non-fungible-token.md)
+  * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
 
 ## Appendix
 
