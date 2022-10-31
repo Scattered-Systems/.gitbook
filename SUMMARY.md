@@ -26,6 +26,7 @@
     * [Alias](appendix/index/a/alias.md)
   * [B](appendix/index/b/README.md)
     * [Blockchain](appendix/index/b/blockchain.md)
+    * [Bridge](appendix/index/b/bridge.md)
     * [Byzantine Fault Tolerance](appendix/index/b/byzantine-fault-tolerance.md)
   * [C](appendix/index/c/README.md)
     * [Certification Boards](appendix/index/c/certification-boards.md)
@@ -97,4 +98,4 @@
   * [Z](appendix/index/z/README.md)
     * [Zero-Knowledge](appendix/index/z/zero-knowledge.md)
     * [zk-SNARK](appendix/index/z/zk-snark.md)
-* [References](appendix/references.md)
+* [Resources](appendix/resources.md)
