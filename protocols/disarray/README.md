@@ -20,7 +20,7 @@ The network relies upon the juxtaposition of proof-of-stake and proof-of-work ph
 
 One primary benefit of implementing such a system is the increased opportunity for network participation, allowing both staking and mining operations to coexist. Additionally, as seen in a recent post (linked below), the prolonged dip in bitcoins price has drastically affected its participants while each new block being mined makes it that much more difficult to do so. This is something deeply considered in the formalized protocol as they experimentally verify the stability of a hybrid mechanism when contrasted against pow only blockchains such as Bitcoin.
 
-### Engine
+### Consensus Drivers
 
 #### Part I: Proof of Stake Mechanism(s)&#x20;
 
