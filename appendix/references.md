@@ -1,8 +1,13 @@
 ---
-description: A collection of supporting documentation, research, and otherwise
+description: A complete list of resources and references directly linked in the paper
 ---
 
 # Resources
+
+#### Useful Links
+
+1. [Files](https://worker.scattered-systems.com/docs/research)
+2. [Top Bitcoin Miner Selling Mining Machines](https://coingape.com/top-bitcoin-miner-selling-mining-machines-fundraising/)
 
 ## References
 
@@ -23,8 +28,3 @@ description: A collection of supporting documentation, research, and otherwise
 1. [Ouroboros Praos](https://iohk.io/en/research/library/papers/ouroboros-praos-an-adaptively-secure-semi-synchronous-proof-of-stake-protocol/)
 2. [Ouroboros BFT](https://iohk.io/en/research/library/papers/ouroboros-bft-a-simple-byzantine-fault-tolerant-consensus-protocol/)
 3. [Ouroboros](https://iohk.io/en/research/library/papers/ouroboros-a-provably-secure-proof-of-stake-blockchain-protocol/)
-
-### Useful Links
-
-1. [Files](https://worker.scattered-systems.com/docs/research)
-2. [Top Bitcoin Miner Selling Mining Machines](https://coingape.com/top-bitcoin-miner-selling-mining-machines-fundraising/)
