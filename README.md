@@ -1,7 +1,8 @@
 ---
 description: >-
-  Building a unified interface manifesting decentralized namespaces for
-  confidently experiencing the next generation of internet-based experiences
+  Blockchain technologies are often misunderstood, leading to its
+  underutilization in 5G and as a personal computing platform inspiring our
+  unified interface for manifesting your decentralized namespace
 cover: .gitbook/assets/Abstract Multi-Colored Geometric Wallpaper.webp
 coverY: 149.81519507186857
 ---
