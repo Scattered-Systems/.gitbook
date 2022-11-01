@@ -71,6 +71,7 @@
   * [L](appendix/index/l.md)
     * [Langlands Program](appendix/index/l/langlands-program.md)
   * [M](appendix/index/m/README.md)
+    * [Merkle Proof](appendix/index/m/merkle-proof.md)
     * [Merkle Tree](appendix/index/m/merkle-tree.md)
     * [Merkle Mountain Range](appendix/index/m/merkle-mountain-range.md)
     * [Mining](appendix/index/m/mining.md)
