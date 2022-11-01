@@ -4,7 +4,7 @@ Proton is the user interface, visually manifesting the experiences in secure dig
 
 
 
-## Features
+## Focus Points
 
 ### Automation
 

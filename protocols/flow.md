@@ -12,11 +12,9 @@ Flow takes several lessons learned from across the general blockchain ecosystem 
 
 The blockchain itself is derived from the Hydra Protocol as the introduction of isomorphic state channels directly services the ecosystem in several critical ways without introducing a large amount of overhead.&#x20;
 
-#### Responsabilities
+## Focus Points
 
-
-
-### Complete Financial Portfolio
+### Finances
 
 Financial services are currently littered across the internet causing an enormous amount of confusion thus increasing the ability for malicious practices to persist. This is especially true when looking into defi as recent event have demonstrated that unless we can provide simple ways of validating the intent of the application, then everyday users will remain too scared to commit and the circle will continue. It is imperative that we engineer seamless experiences familiar to the broader public in order to sufficiently encourage them to explore a naturally more complicated and technical environment. Our commitment to centralizing the user experience is highlighted best with our unified financial portfolios. Each user will have immediate access to the network's common decentralized exchange and may begin automating trading activities with Proton's included automation hub. Furthermore, by supporting several integrations with critical centralized providers Proton is able to offer a number of traditional financial services routing requests and responses through the included oracle.&#x20;
 
