@@ -7,7 +7,7 @@
 * [Disarray](protocols/disarray/README.md)
   * [Aether](protocols/disarray/aether.md)
   * [Chaos](protocols/disarray/chaos.md)
-  * [Flow](protocols/disarray/flow.md)
+* [Flow](protocols/flow.md)
 * [Proton](protocols/proton.md)
 * [Reaction](protocols/reaction.md)
 
