@@ -1,12 +1,12 @@
 ---
-description: A multi-resource multi-chain optimized computationally oriented tasks
+description: A multi-resource multi-chain optimized for computationally oriented tasks
 cover: ../../.gitbook/assets/Multi-colored nodes.jfif
 coverY: 0
 ---
 
 # Disarray
 
-Disarray combines lessons learned from across the blockchain ecosystem to create a post-quantum multi-chain powered with a unique node architecture that encourages network participation like never before. Following the formalization of the Minotaur protocol we are able to confidently engage in developing out a dynamic, multi-resource blockchain network.&#x20;
+Disarray combines lessons learned from across the blockchain ecosystem to create a post-quantum multi-chain powered with a unique node architecture that encourages network participation like never before. Following the formalization of the Minotaur protocol we are able to confidently engage in developing out a dynamic, multi-resource blockchain network. While the initial protocol serves a validation for our pursuits, the final implementation will morph into something much different. This is largely due to the incorporation of Flow modules which add a third dimension to the problem.
 
 ## Specifications
 
