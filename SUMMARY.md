@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Whitepaper](README.md)
+  * [Summary](whitepaper/summary.md)
 
 ## Protocols
 
@@ -19,10 +20,10 @@
 
 ## 💡 Misc
 
-* [Contributors](misc/contributors/README.md)
+* [Contributors](misc/contributors.md)
   * [Design Guidelines](misc/contributors/design-guidelines.md)
 * [Discussions](misc/discussions/README.md)
-  * [Notable Examples](misc/discussions/notable-examples.md)
+  * [Notable Examples](misc/discussions/notable-enterprises.md)
   * [Principals](misc/discussions/principals.md)
   * [Thought Experiments](misc/discussions/thought-experiments.md)
 * [Proposals](misc/proposals/README.md)

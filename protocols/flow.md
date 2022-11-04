@@ -6,11 +6,19 @@ description: >-
 
 # Flow
 
+## Abstract
+
 Flow is a complete identity focused solution powered by a constant sized, hyper-light blockchain which further fuels a host of novel interactions when used in tandem with the rest of the ecosystem. One of the primary responsibilities of the Flow module is to actively interpret the intentions of the active user before routing justified transactions through the correct channels and proxying succinct proofs of the complete interaction onto Reaction.
 
 Flow takes several lessons learned from across the general blockchain ecosystem to enable users like never before.&#x20;
 
 The blockchain itself is derived from the Hydra Protocol as the introduction of isomorphic state channels directly services the ecosystem in several critical ways without introducing a large amount of overhead.&#x20;
+
+interpreting the succinct proofs published by valid actors and
+
+## Concepts
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="../appendix/index/a/alias.md">alias.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="../appendix/index/a/account.md">account.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="../appendix/index/a/actor.md">actor.md</a></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Focus Points
 
@@ -30,6 +38,4 @@ Namespaces is one of the most overlooked technologies and presents an elegant so
 
 Users will be issued three aliases, one to fulfill abstract circumstances, namely: personal, professional, and public engagements or views.
 
-### Supporting Information
-
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="../appendix/index/a/alias.md">alias.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="../appendix/index/a/account.md">account.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="../appendix/index/a/actor.md">actor.md</a></td><td></td><td></td><td></td></tr></tbody></table>
+## Consequences

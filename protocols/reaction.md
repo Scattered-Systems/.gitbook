@@ -14,6 +14,8 @@ Reaction addresses the communal aspect of digital life, encompassing a variety o
 
 ## Focus Points
 
+Reaction's primary concern regards the community aspect of this project, combining the myriad of engagements enabled by the platform into an elegantly crafted digital universe of user created and owned surfaces. This accomplishes several things for us as it establishes a global image, reduces redundancies, and adds additional depth to the interactions facilitated by the platform with perspective-respecting guidelines automatically generated before each engagement.
+
 ### Governance
 
 Reaction works in real time with engaging parties enabling a host of novel interactions to occur under circumstances adhering to the guidelines set forth before each engagement is allowed to begin.
