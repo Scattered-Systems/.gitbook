@@ -15,4 +15,4 @@ Scattered-Systems has been slowly making progress towards the first pre-release.
 
 ### Quick Access
 
-<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="vision.md">vision.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/s/LvfIHE8hy1NkmESQStSt/">Whitepaper</a></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/s/8AIINRNKLle5r1OzWBpS/">Vision</a></td><td></td><td></td><td></td></tr><tr><td><a href="https://app.gitbook.com/s/LvfIHE8hy1NkmESQStSt/">Whitepaper</a></td><td></td><td></td><td></td></tr></tbody></table>

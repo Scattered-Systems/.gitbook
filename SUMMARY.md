@@ -1,6 +1,8 @@
 # Table of contents
 
 * [📝 Welcome](README.md)
-  * [About](welcome/about.md)
-  * [Connect with Us](welcome/connect-with-us.md)
-* [📰 Vision](vision.md)
+
+## Misc
+
+* [About](misc/about.md)
+* [Connect with Us](misc/connect-with-us.md)
