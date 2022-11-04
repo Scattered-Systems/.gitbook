@@ -26,6 +26,8 @@
   * [3D Printable Non-Fungible Token](misc/proposals/3d-printable-non-fungible-token.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
   * [Modular Form based Cryptography](misc/proposals/modular-form-based-cryptography.md)
+* [Use-Cases](misc/use-cases/README.md)
+  * [Puzzle Trading](misc/use-cases/puzzle-trading.md)
 
 ## Appendix
 
