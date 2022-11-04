@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # Connect with Us
 
 {% hint style="info" %}
