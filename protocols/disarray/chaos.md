@@ -16,7 +16,9 @@ Chaos builds upon the scaffolded personal networks derived upon the registration
 
 ### Storage
 
-#### Providers
+#### Gateway
+
+With Chaos, users can configure their clusters to include a variety of alternative providers enabling them to participate in the target networks or consume resources in an effort to lessen the load on their network.
 
 #### _Inter-Planetary File System (IPFS)_
 
