@@ -6,15 +6,15 @@ description: >-
 
 # Reaction
 
-Reaction addresses the communal aspect of digital life, encompassing a variety of features from our decentralized exchange to our elegant NFT marketplace and more. Each account registered on Reaction represents another Flow module generated upon the download of Proton. This enables us to tie the ecosystem together, optimizing the process with built in proofs of ownership that further serve as disaster recovery mechanisms. Flow represents the active node the user is currently operating with, relying on Proton to establish further perspective. Each Flow node is a part of a small, personal network automatically scaffolded when compatible devices are registered to the namespace. This process encourages users to build-out their cloud platforms, securely orchestrating complex workloads from across the globe using either their own network's resources or by renting out resources from Disarray and participating parties.&#x20;
+Reaction's primary concern regards the community aspect of this project, combining the myriad of engagements enabled by the platform into an elegantly crafted digital universe of user created and owned surfaces. This accomplishes several things for us as it establishes a global image, reduces redundancies, and adds additional depth to the interactions facilitated by the platform with perspective-respecting guidelines automatically generated before each engagement.
+
+Reaction addresses the community in several different ways including our unique digital marketplace, extensively developed gig-economy furthered with well-designed educational and professional sectors, and will eventually morph into a complete metaverse for users to engage in.
 
 ## Concepts
 
 <table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th><th data-hidden data-type="checkbox"></th></tr></thead><tbody><tr><td><a href="../appendix/index/c/certification-boards.md">certification-boards.md</a></td><td></td><td></td><td></td><td>false</td></tr><tr><td><a href="../appendix/index/p/professional-pipeline.md">professional-pipeline.md</a></td><td></td><td></td><td></td><td>false</td></tr><tr><td><a href="../appendix/index/s/stacked-guidelines.md">stacked-guidelines.md</a></td><td></td><td></td><td></td><td>false</td></tr></tbody></table>
 
 ## Focus Points
-
-Reaction's primary concern regards the community aspect of this project, combining the myriad of engagements enabled by the platform into an elegantly crafted digital universe of user created and owned surfaces. This accomplishes several things for us as it establishes a global image, reduces redundancies, and adds additional depth to the interactions facilitated by the platform with perspective-respecting guidelines automatically generated before each engagement.
 
 ### Governance
 
