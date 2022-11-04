@@ -1,8 +1,6 @@
 # Proton
 
-Proton is the user interface, visually manifesting the experiences in secure digital spaces empowering everyday users to actively engage in meaningful interactions facilitated by blockchain technologies.
-
-
+One of the primary issues currently facing blockchain technology is the overall usability of end-products as confusing markets, misinformation, and technical terminology lead to shrewd onboarding procedures and confusing products. This culminates into the misconception of blockchain technologies being limited in their applicability, servicing users with financial solutions rather than practical, day-to-day applications. After scouring the ecosystem for a solution, it was disappointing to discover that this notion has further discouraged new initiatives to pursue unique ideas leading to the proposed user interface, Proton. Proton visually manifests experiences facilitated by the platform leveraging the architecture to attain a certain level of malleability enabling all users to customize their spaces to their liking. Developing out a more tangible namespace for users to actively engage in meaningful, decentralized interactions enables the more technical solutions to blend elegantly into the very fabric of the platform.
 
 ## Focus Points
 
