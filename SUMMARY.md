@@ -23,7 +23,7 @@
 * [Discussions](misc/discussions/README.md)
   * [Conceptualizing the platform](misc/discussions/conceptualizing-the-platform.md)
 * [Proposals](misc/proposals/README.md)
-  * [3D Printable Non-Fungible Token](misc/proposals/3d-printable-non-fungible-token.md)
+  * [3D Printable NFT](misc/proposals/3d-printable-nft.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
   * [Modular Form based Cryptography](misc/proposals/modular-form-based-cryptography.md)
 * [Use-Cases](misc/use-cases/README.md)
