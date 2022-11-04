@@ -19,15 +19,21 @@
 
 ## 💡 Misc
 
-* [Contributors](misc/contributors.md)
+* [Contributors](misc/contributors/README.md)
+  * [Design Guidelines](misc/contributors/design-guidelines.md)
 * [Discussions](misc/discussions/README.md)
-  * [Notable Enterprises](misc/discussions/notable-enterprises.md)
+  * [Notable Examples](misc/discussions/notable-examples.md)
+  * [Principals](misc/discussions/principals.md)
+  * [Thought Experiments](misc/discussions/thought-experiments.md)
 * [Proposals](misc/proposals/README.md)
   * [3D Printable NFT](misc/proposals/3d-printable-nft.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
+  * [Digital PO Boxes](misc/proposals/digital-po-boxes.md)
   * [Modular Form based Cryptography](misc/proposals/modular-form-based-cryptography.md)
 * [Use-Cases](misc/use-cases/README.md)
+  * [Manufacturing](misc/use-cases/manufacturing.md)
   * [Puzzle Trading](misc/use-cases/puzzle-trading.md)
+  * [What's your Gig?](misc/use-cases/whats-your-gig.md)
 
 ## Appendix
 
