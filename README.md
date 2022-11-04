@@ -4,6 +4,7 @@ description: >-
   experiences is being curated
 cover: .gitbook/assets/Abstract Multi-Colored Geometric Wallpaper.webp
 coverY: 149.81519507186857
+layout: landing
 ---
 
 # 📝 Welcome
