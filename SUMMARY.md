@@ -21,7 +21,7 @@
 
 * [Contributors](misc/contributors.md)
 * [Discussions](misc/discussions/README.md)
-  * [Conceptualizing the platform](misc/discussions/conceptualizing-the-platform.md)
+  * [Notable Enterprises](misc/discussions/notable-enterprises.md)
 * [Proposals](misc/proposals/README.md)
   * [3D Printable NFT](misc/proposals/3d-printable-nft.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
