@@ -6,6 +6,5 @@ JetBrains currently has one of the most robust technical examples of the process
 
 Mega-corporations such as Apple and Microsoft have recently taken to migrating the traditional services, congregating them into a single cloud platform enabling users to make the best use of their services regardless of the active device.&#x20;
 
-Other examples include Deta Space, Ignite CLI, Substrate, and WASMCloud each inspiring an extensive amount of thought in their own right. Deta Space is perhaps the most literal of all examples and has garnished an increased support with their latest public beta.
+Deta Space is perhaps the most literal of all examples and has garnished an increased support with their latest public beta.
 
-&#x20;
