@@ -1,5 +1,5 @@
 ---
-description: A decentralize, cloud-native personal computational space
+description: A decentralized, cloud-native personal computational space
 ---
 
 # Proton
