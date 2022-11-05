@@ -14,6 +14,7 @@
 
 ## Specs
 
+* [Contracts](specs/contracts.md)
 * [Networking](specs/networking.md)
 * [Runtime](specs/runtime.md)
 * [Security](specs/security.md)
