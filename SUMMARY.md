@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Whitepaper](README.md)
-  * [Summary](whitepaper/summary.md)
 
 ## Protocols
 
