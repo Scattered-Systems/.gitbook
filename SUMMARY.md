@@ -18,6 +18,7 @@
 * [D](d/README.md)
   * [DAO](d/dao.md)
   * [Deterministic](d/deterministic.md)
+  * [Directed Acyclic Graph (DAG)](d/directed-acyclic-graph-dag.md)
   * [Divergance](d/divergance.md)
   * [Double Spending](d/double-spending.md)
 * [E](e/README.md)
