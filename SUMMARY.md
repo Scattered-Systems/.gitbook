@@ -27,6 +27,7 @@
   * [Principals](misc/discussions/principals.md)
   * [Thought Experiments](misc/discussions/thought-experiments.md)
 * [Proposals](misc/proposals/README.md)
+  * [Harmonizing Cloud Systems](misc/proposals/harmonizing-cloud-systems.md)
   * [3D Printable NFT](misc/proposals/3d-printable-nft.md)
   * [Dead Man's Hand](misc/proposals/dead-mans-hand.md)
   * [Digital PO Boxes](misc/proposals/digital-po-boxes.md)
